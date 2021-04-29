@@ -1,4 +1,4 @@
-Website Name: Premiere League Team Details.
+Website Name: PREMIERE LEAGUE TEAM DETAILS.
 live site: https://premiere-league-teams.netlify.app/
 Api Used: https://www.thesportsdb.com/api.php
 
