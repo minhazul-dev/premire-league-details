@@ -8,3 +8,5 @@ Technology Used: React, Bootstrap, React router.
 Icons: Fontawesome
 
 ![Screenshot_1](https://user-images.githubusercontent.com/76746893/116618368-c7dc7300-a960-11eb-8ad6-d61c3bd06bbf.png)
+
+![Screenshot_2](https://user-images.githubusercontent.com/76746893/116618658-286bb000-a961-11eb-856a-ccfe48fc48d6.png)
